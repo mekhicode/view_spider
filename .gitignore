@@ -1,0 +1,4 @@
+*.pyc
+download/
+.idea/
+.DS_Store
